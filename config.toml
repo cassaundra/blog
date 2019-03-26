@@ -3,7 +3,7 @@ base_url = "https://blog.cassaundra.io"
 
 title = "Cassaundra's Blog"
 
-theme = "Even"
+theme = "even"
 
 # Whether to automatically compile all Sass files in the sass directory
 compile_sass = true
