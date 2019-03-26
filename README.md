@@ -4,4 +4,4 @@
 
 ## Usage
 
-After you've [installed Zola](https://www.getzola.org/documentation/getting-started/installation/) and initialized the theme submodule, you can use `zola serve` to view the site locally.
+After you've [installed Zola](https://www.getzola.org/documentation/getting-started/installation/) and initialized the theme submodule (`git submodule update --init --recursive`), you can use `zola serve` to view the site locally.
