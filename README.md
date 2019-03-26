@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.com/cassaundra/cassaundra-io.svg?branch=master)](https://travis-ci.com/cassaundra/cassaundra-io)
+[![Build Status](https://travis-ci.com/cassaundra/blog.svg?branch=master)](https://travis-ci.com/cassaundra/blog)
 
 # blog
 
