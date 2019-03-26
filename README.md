@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.com/cassaundra/cassaundra-io.svg?branch=master)](https://travis-ci.com/cassaundra/cassaundra-io)
+
 # blog
 
 ## Usage
