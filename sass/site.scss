@@ -1,0 +1,21 @@
+@import "../themes/even/sass/site.scss";
+
+@import url('https://fonts.googleapis.com/css?family=Rubik');
+
+$font-stack: Rubik, sans-serif;
+
+.content, #header {
+	font: 100% $font-stack;
+	// font-size: 16px;
+	font-size: 85%;
+	font-weight: 400;
+	line-height: 1.45;
+}
+
+main .read-more a {
+	font-size: 100%;
+}
+
+pre {
+	font-size: 85%;
+}
