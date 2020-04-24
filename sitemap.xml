@@ -1,0 +1,28 @@
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    
+        <url>
+            <loc>https://blog.cassaundra.io/example-post/</loc>
+            
+                <lastmod>2019-03-25</lastmod>
+            
+        </url>
+    
+    
+        <url>
+            <loc>https://blog.cassaundra.io/</loc>
+        </url>
+    
+    
+        
+        <url>
+            <loc>https://blog.cassaundra.io/tags/</loc>
+        </url>
+        
+    
+        
+        <url>
+            <loc>https://blog.cassaundra.io/categories/</loc>
+        </url>
+        
+    
+</urlset>
